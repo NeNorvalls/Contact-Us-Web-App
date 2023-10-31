@@ -8,7 +8,7 @@ body {
 
 .formContainer {
     max-width: 400px;
-    max-height: 620px;
+    max-height: 660px;
     margin: 2rem auto;
     padding: 20px;
     background-image: url('https://i.ibb.co/319VyH7/background.jpg'); 
@@ -128,6 +128,7 @@ button:hover {
     padding: 1rem; 
     text-align: center; 
     text-decoration: none;
+    color: #fff;
   }
   
   .back-to-landing:hover {
